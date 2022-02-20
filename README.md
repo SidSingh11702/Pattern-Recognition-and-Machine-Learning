@@ -1,1 +1,1 @@
-# Pattern-Recognition-and-Machine-Learning
+Assignments of CS5691 (Jan-May 2022)
