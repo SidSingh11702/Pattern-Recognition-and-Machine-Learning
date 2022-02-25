@@ -1,1 +1,1 @@
-Assignments of CS5691 (Jan-May 2022)
+CS5691 (Jan-May 2022) assignments
