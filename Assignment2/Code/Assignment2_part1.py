@@ -688,7 +688,7 @@ for N in test_size:
   w = np.linalg.inv(np.add(phi.T@phi,lam_opt*np.eye(M_opt)))@(phi.T)@(t_train_rand)
 
   # model
-  def y4(a,b):
+  def y4(x,y):
     sum = 0
     for i in range(M_opt):
       sum += w[i]*((((x**2)+(y**2))**0.5)**i)     
